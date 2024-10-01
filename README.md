@@ -1,7 +1,4 @@
-# IT496_Data_Voyagers_Project1
-
-# 🚀 Data Voyagers
-
+# EV_Charging_Data_Analysis
 
 ## 1. 🎯 Introduction
 
