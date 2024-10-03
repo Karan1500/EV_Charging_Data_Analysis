@@ -1,4 +1,4 @@
-# EV_Charging_Data_Analysis
+# GreenChargeAnalytics - EV Gains Predictor
 
 ## 1. 🎯 Introduction
 
